@@ -15,7 +15,7 @@ const Berita = () => {
         <div className="w-full p-4">
           <div className="card lg:card-side bg-white shadow-xl">
             <figure>
-              <img src="https://placeimg.com/350/180/arch" alt="Album" />
+              <img src="https://placeimg.com/350/260/arch" alt="Album" />
             </figure>
             <div className="card-body">
               <h2 className="card-title">Lorem</h2>
@@ -35,7 +35,7 @@ const Berita = () => {
         <div className="w-full p-4">
           <div className="card lg:card-side bg-white shadow-xl">
             <figure>
-              <img src="https://placeimg.com/350/180/arch" alt="Album" />
+              <img src="https://placeimg.com/350/260/arch" alt="Album" />
             </figure>
             <div className="card-body">
               <h2 className="card-title">Lorem</h2>
@@ -55,7 +55,7 @@ const Berita = () => {
         <div className="w-full p-4">
           <div className="card lg:card-side bg-white shadow-xl">
             <figure>
-              <img src="https://placeimg.com/350/180/arch" alt="Album" />
+              <img src="https://placeimg.com/350/260/arch" alt="Album" />
             </figure>
             <div className="card-body">
               <h2 className="card-title">Lorem</h2>
@@ -75,7 +75,7 @@ const Berita = () => {
         <div className="w-full p-4">
           <div className="card lg:card-side bg-white shadow-xl">
             <figure>
-              <img src="https://placeimg.com/350/180/arch" alt="Album" />
+              <img src="https://placeimg.com/350/260/arch" alt="Album" />
             </figure>
             <div className="card-body">
               <h2 className="card-title">Lorem</h2>
